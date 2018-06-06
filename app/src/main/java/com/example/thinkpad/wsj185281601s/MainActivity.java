@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         mrv.setAdapter(md);
 
         //大美美加的注释
+        //dev
 
         //RecyclerView条目的点击事件
         md.setOnItemClickListener(new MyAdapter.OnItemClickListener() {
